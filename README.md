@@ -8,9 +8,6 @@
 # install dependencies
 $ npm install
 
-# buat file baru bernama .env di main file lalu isi file seperti berikut
-BASE_URL=https://reqres.in
-
 
 # menjalankan program di localhost:91
 $ npm run dev
