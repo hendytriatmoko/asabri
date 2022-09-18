@@ -9,7 +9,7 @@
 $ npm install
 
 
-# menjalankan program di localhost:91
+# menjalankan program di localhost:30
 $ npm run dev
 ```
 
